@@ -522,6 +522,82 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.absolute {
+  position: absolute;
+}
+
+.right-0 {
+  right: 0px;
+}
+
+.right-8 {
+  right: 2rem;
+}
+
+.right-28 {
+  right: 7rem;
+}
+
+.right-60 {
+  right: 15rem;
+}
+
+.left-40 {
+  left: 10rem;
+}
+
+.-left-40 {
+  left: -10rem;
+}
+
+.-left-28 {
+  left: -7rem;
+}
+
+.right-80 {
+  right: 20rem;
+}
+
+.right-96 {
+  right: 24rem;
+}
+
+.right-\[400px\] {
+  right: 400px;
+}
+
+.right-\[450px\] {
+  right: 450px;
+}
+
+.right-\[490px\] {
+  right: 490px;
+}
+
+.right-\[5200px\] {
+  right: 5200px;
+}
+
+.right-\[520px\] {
+  right: 520px;
+}
+
+.right-\[500px\] {
+  right: 500px;
+}
+
+.right-\[505px\] {
+  right: 505px;
+}
+
+.right-\[503px\] {
+  right: 503px;
+}
+
+.right-\[502px\] {
+  right: 502px;
+}
+
 .m-3 {
   margin: 0.75rem;
 }
@@ -545,6 +621,34 @@ video {
 
 .mb-6 {
   margin-bottom: 1.5rem;
+}
+
+.ml-10 {
+  margin-left: 2.5rem;
+}
+
+.mr-10 {
+  margin-right: 2.5rem;
+}
+
+.mr-11 {
+  margin-right: 2.75rem;
+}
+
+.ml-12 {
+  margin-left: 3rem;
+}
+
+.mr-12 {
+  margin-right: 3rem;
+}
+
+.ml-4 {
+  margin-left: 1rem;
+}
+
+.ml-11 {
+  margin-left: 2.75rem;
 }
 
 .inline-block {
@@ -579,8 +683,28 @@ video {
   width: 100%;
 }
 
+.w-96 {
+  width: 24rem;
+}
+
+.w-\[\] {
+  width: ;
+}
+
+.w-\[23\] {
+  width: 23;
+}
+
 .max-w-screen-xl {
   max-width: 1280px;
+}
+
+.max-w-3xl {
+  max-width: 48rem;
+}
+
+.max-w-4xl {
+  max-width: 56rem;
 }
 
 .flex-1 {
@@ -665,6 +789,21 @@ video {
 .py-4 {
   padding-top: 1rem;
   padding-bottom: 1rem;
+}
+
+.py-1 {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+}
+
+.px-6 {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+.py-3 {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
 }
 
 .pt-4 {
